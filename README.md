@@ -21,12 +21,12 @@ My goal is to secure a cybersecurity internship where I can apply my technical k
 
 | Skill | Associated Work |
 |------|----------------|
-| Vulnerability Analysis & Security Testing | CTF Write-ups |
+| Vulnerability Analysis & Security Testing | <a href="https://github.com/fahmi910/Capture-The-Flag-CTF-write-up.git">Capture The Flag (CTF)</a> |
 | Cybersecurity Compliance (ISO 27001, PDPA) | <a href="https://github.com/fahmi910/Automated-Compliance-Checker.git">Automated Compliance Checker</a> |
 | Risk Identification & Gap Analysis | <a href="https://github.com/fahmi910/Automated-Compliance-Checker.git">Automated Compliance Checker</a> |
-| Network Security & Traffic Analysis | CTF + Labs |
-| Web Application Security Testing | CTF Write-ups |
-| Programming & Scripting (Python, C++, Java) | Academic & Projects |
+| Network Security & Traffic Analysis |<a href="https://github.com/fahmi910/Capture-The-Flag-CTF-write-up.git">Capture The Flag (CTF)</a> |
+| Web Application Security Testing |<a href="https://github.com/fahmi910/Capture-The-Flag-CTF-write-up.git">Capture The Flag (CTF)</a> |
+| Programming & Scripting (Python, C++, Java) |<a href="https://github.com/fahmi910/Capture-The-Flag-CTF-write-up.git">Academic's Lab & Project</a> |
 | Data Analysis & Structured Problem Solving | JomNiaga Project |
 
 ---
