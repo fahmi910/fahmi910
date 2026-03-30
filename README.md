@@ -22,8 +22,8 @@ My goal is to secure a cybersecurity internship where I can apply my technical k
 | Skill | Associated Work |
 |------|----------------|
 | Vulnerability Analysis & Security Testing | CTF Write-ups |
-| Cybersecurity Compliance (ISO 27001, PDPA) | Compliance Checker Project |
-| Risk Identification & Gap Analysis | Compliance Checker Project |
+| Cybersecurity Compliance (ISO 27001, PDPA) | <a href="https://github.com/fahmi910/Automated-Compliance-Checker.git">Automated Compliance Checker</a> |
+| Risk Identification & Gap Analysis | <a href="https://github.com/fahmi910/Automated-Compliance-Checker.git">Automated Compliance Checker</a> |
 | Network Security & Traffic Analysis | CTF + Labs |
 | Web Application Security Testing | CTF Write-ups |
 | Programming & Scripting (Python, C++, Java) | Academic & Projects |
