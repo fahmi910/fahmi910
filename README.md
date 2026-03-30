@@ -5,19 +5,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 I am a final-year Bachelor of Computer Science (Cyber Security) student at Universiti Tenaga Nasional (UNITEN) with a strong interest in cybersecurity, problem-solving, and real-world security challenges.
 
 I actively participate in Capture The Flag (CTF) competitions and develop security-focused projects, with experience in vulnerability analysis, compliance assessment, and secure system design.
 
 ---
 
-## 🎯 Objective
+## Objective
 My goal is to secure a cybersecurity internship where I can apply my technical knowledge and hands-on experience, particularly in areas such as security analysis, Identity & Access Management (IAM), and cybersecurity consulting.
 
 ---
 
-## 🧠 Skills
+## Skills
 
 | Skill | Associated Work |
 |------|----------------|
@@ -31,7 +31,7 @@ My goal is to secure a cybersecurity internship where I can apply my technical k
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 ### Network & Analysis
 <div>
@@ -66,23 +66,23 @@ My goal is to secure a cybersecurity internship where I can apply my technical k
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔐 Automated Compliance Checker (Ongoing)
+### Automated Compliance Checker (Ongoing)
 - Developed a rule-based cybersecurity compliance system aligned with ISO/IEC 27001 and PDPA
 - Performed security control mapping, risk identification, and gap analysis
 - Designed automated checks to evaluate organizational security posture
 
 ---
 
-### 💼 JomNiaga – Business Onboarding Platform
+### JomNiaga – Business Onboarding Platform
 - Built a digital onboarding system for MSMEs
 - Improved workflow efficiency and digital readiness using structured data processes
 - Achieved **Top 17 out of 109 teams (PayHack 2025)**
 
 ---
 
-## 🧩 CTF Write-ups
+## CTF Write-ups
 
 I document my CTF learning journey and solutions here:
 
@@ -101,22 +101,22 @@ Skills demonstrated:
 
 ---
 
-## 🏆 Achievements
-- 🥉 Third Place – Clicq Div:ide CTF 2026  
-- 🎯 Finalist – ICTFF UiTM CTF T.A.M.I.N.G 2026  
-- 🎯 Finalist – International Game of Hackers (IGOH) 2025  
-- 🎯 Finalist – PayHack 2025  
+## Achievements
+- Third Place – Clicq Div:ide CTF 2026  
+- Finalist – ICTFF UiTM CTF T.A.M.I.N.G 2026  
+- Finalist – International Game of Hackers (IGOH) 2025  
+- Finalist – PayHack 2025  
 
 ---
 
-## 📜 Certifications
+## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CCNA%3A_Introduction_to_Networks-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 - Identity & Access Management (IAM)
 - Security Operations (SOC fundamentals)
 - SIEM concepts and log analysis
@@ -124,7 +124,7 @@ Skills demonstrated:
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 - 📧 Email: muhdfahmi160497@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-fahmi-abd-salim-b5a12928b 
 
