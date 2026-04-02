@@ -86,7 +86,7 @@ My goal is to secure a cybersecurity internship where I can apply my technical k
 
 I document my CTF learning journey and solutions here:
 
-👉 **[CTF Write-ups Repository](https://github.com/YOUR-USERNAME/ctf-writeups)**
+👉 **[CTF Write-ups Repository](https://github.com/fahmi910/Capture-The-Flag-CTF-write-up)**
 
 ### Featured Write-ups
 - 🎰 Hakari Domain (Crypto)
