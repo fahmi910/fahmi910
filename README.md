@@ -107,7 +107,7 @@ Academic coursework and hands-on lab exercises completed throughout my degree at
 
 | Subject | Work | Description |
 |---------|------|-------------|
-| Computer Forensics (CCSB5223) | [Dead Man's Laptop](https://github.com/fahmi910/Dead-s-Man-Laptop) | Browser-based digital forensic investigation game |
+| Computer Forensics | [Dead Man's Laptop](https://github.com/fahmi910/Dead-s-Man-Laptop) | Browser-based digital forensic investigation game |
 
 ---
 
