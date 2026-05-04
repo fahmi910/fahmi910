@@ -101,6 +101,16 @@ Skills demonstrated:
 
 ---
 
+## 📚 Labs & Assignments
+
+Academic coursework and hands-on lab exercises completed throughout my degree at UNITEN.
+
+| Subject | Work | Description |
+|---------|------|-------------|
+| Computer Forensics (CCSB5223) | [Dead Man's Laptop](https://github.com/fahmi910/Dead-s-Man-Laptop) | Browser-based digital forensic investigation game |
+
+---
+
 ## Achievements
 - Third Place – Clicq Div:ide CTF 2026  
 - Finalist – ICTFF UiTM CTF T.A.M.I.N.G 2026  
